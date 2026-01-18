@@ -1,8 +1,8 @@
-# Pandas 
-# Numpy
-# scikit-learn
-# tensorflow
-# matplotlib
-# streamlit
-# tensorboard
+Pandas 
+Numpy
+scikit-learn
+tensorflow
+matplotlib
+streamlit
+tensorboard
 ipykernel
